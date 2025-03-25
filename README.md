@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <!-- Header -->
+    
     <header>
         <h1>Selamat Datang</h1>
         <p>Belajar elemen semantik HTML5</p>
@@ -18,13 +18,13 @@
         </nav>
     </header>
 
-    <!-- Section Tentang -->
+   
     <section id="tentang">
         <h2>Tentang Halaman Ini</h2>
         <p>Ini merupakan section untuk menu Tentang</p>
     </section>
 
-    <!-- Section Daftar Kursus -->
+  
     <section id="kursus">
         <h2>Daftar Kursus</h2>
         <table border="1">
@@ -46,7 +46,7 @@
         </table>
     </section>
 
-    <!-- Section Kontak -->
+   
     <section id="kontak">
         <h2>Hubungi Kami</h2>
         <form>
@@ -63,9 +63,9 @@
         </form>
     </section>
 
-    <!-- Footer -->
+    
     <footer>
-        <p>&copy; 2025 oleh ……..</p>
+        <p>&copy; 2025 oleh soniabrigita</p>
     </footer>
 
 </body>
