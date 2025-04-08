@@ -62,11 +62,66 @@
             <button type="submit">Kirim</button>
         </form>
     </section>
-
+<footer>
+    <section id="kontak">
+        <h2>Hubungi Kami</h2>
+        <form>
+          <label>Nama: <input type="text" /></label><br />
+          <label>Email: <input type="email" /></label><br />
+          <label>Pesan: <textarea></textarea></label><br />
+          <button type="submit">Kirim</button>
+        </form>
+      </section>
     
-    <footer>
-        <p>&copy; 2025 oleh soniabrigita</p>
-    </footer>
-
-</body>
-</html>
+      <!DOCTYPE html><html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Form Pendaftaran Siswa</title>
+    </head>
+    <body>
+        <nav>
+        </nav><section>
+        <h2>Form Pendaftaran Siswa Baru Kampus Institut Teknologi Dan Bisnis Sabda Setia</h2>
+        <form action="#" method="post">
+            <label for="nama">Nama Lengkap:</label>
+            <input type="text" id="nama" name="nama" required><br><br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required><br><br>
+            <label for="tgl_lahir">Tanggal Lahir:</label>
+            <input type="date" id="tgl_lahir" name="tgl_lahir"><br><br>
+            <label>Jenis Kelamin:</label>
+            <input type="radio" id="pria" name="jenis_kelamin" value="Pria">
+            <label for="pria">Pria</label>
+            <input type="radio" id="wanita" name="jenis_kelamin" value="Wanita">
+            <label for="wanita">Wanita</label><br><br>
+            <label for="Prodi Pilihan">Prodi Pilihan :</label>
+            <input type="checkbox" id="Bisnis Digital" name="Prodi Pilihan" value="Bisnis Digital">
+            <label for="Bisnis Digital">Bisnis Digital</label>
+            <input type="checkbox" id="Kewirausahaan" name="Prodi Pilihan" value="Kewirausahaan">
+            <label for="Kewirausahaan">Kewirausahaan</label>
+            <input type="checkbox" id="Sistem & Teknologi Informasi" name="Prodi Pilihan" value="Sistem & Teknologi Informasi">
+            <label for="Sistem & Teknologi Informasi">Sistem & Teknologi Informasi</label><br><br>
+            <label for="alamat">Alamat:</label><br><br>
+            <textarea id="alamat" name="alamat" rows="4"></textarea><br><br>
+              <label for="Nama Ayah">Nama Ayah :</label><br>
+              <input type="text" id="nama ayah" name="nama ayah" required<br><br>
+              <label for="Nama Ibu">Nama Ibu :</label><br>
+              <input type="text" id="nama ibu" name="nama ibu" required<br><br>
+              <label for="Pekerjaan Iyah">Pekerjaan Ayah :</label><br>
+              <input type="text" id="pekerjaan ayah" name="pekerjaan ayah" required<br><br>
+              <label for="Pekerjaan Ibu">Pekerjaan Ibu :</label><br>
+              <input type="text" id="pekerjaan ayah" name="pekerjaan ayah" required<br><br>
+            <button type="submit">Daftar</button><br><br>
+              </form>
+    </section>
+    </body>
+    </html>
+      <footer>
+        <p>© 2025 oleh soniabrigitaabel </p>
+      </footer>
+    </body>
+    </html>
+</footer>
+    
+  
