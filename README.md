@@ -46,8 +46,7 @@
         </table>
     </section>
 
-   
-    <section id="kontak">
+   <section id="kontak">
         <h2>Hubungi Kami</h2>
         <form>
             <label for="nama">Nama:</label>
